@@ -96,4 +96,4 @@ pd.DataFrame(errors).to_csv("kimi_error_log.csv", index=False)
 print("✅ 全部任务完成，结果已保存。")
 
 运行结果：<img width="963" height="541" alt="截屏2025-07-31 22 01 43" src="https://github.com/user-attachments/assets/186e9f90-7fa4-4956-8f27-d0ccf1e72e7d" />
-调用API被限流。
+API calls are being rate-limited。
